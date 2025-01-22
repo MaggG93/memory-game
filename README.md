@@ -1,4 +1,5 @@
-Memory Game
+MEMORY GAME
+
 This is a Memory game developed in JavaScript, where the player must find all matching card pairs to win the game.
 
 Features
