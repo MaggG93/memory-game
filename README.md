@@ -19,7 +19,7 @@ SCREENSHOTS
 INSTALLATION AND USAGE
 
 Clone the repository:
-git clone https://github.com/your_username/memory-game.git
+git clone https://github.com/MaggG93/memory-game.git
 
 Open index.html in your web browser.
 Play and enjoy!
