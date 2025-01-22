@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Game</title>
+    <link rel="stylesheet" href="../memory/css/style.css" />
+  </head>
+  <body>
+    <div id="contenedor">
+      <!-- Controles -->
+      <aside id="controles">
+        <h1>Memory Game</h1>
+        <label for="tamano">Tamaño de cuadrícula:</label>
+        <select id="tamano">
+          <option value="4">4x4</option>
+          <option value="6">6x6</option>
+        </select>
+        <button id="reiniciar">Reiniciar</button>
+        <p>Movimientos: <span id="movimientos">0</span></p>
+        <p>Tiempo: <span id="tiempo">0</span>s</p>
+      </aside>
+
+      <!-- Juego -->
+      <<div id="juego"></div>>
+    </div>
+
+    <script src="../memory/js/script.js"></script>
+  </body>
+</html>
